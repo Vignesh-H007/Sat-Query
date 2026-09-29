@@ -138,7 +138,7 @@ export default function App() {
               <div className="brand-icon">
                 <Orbit size={18} />
               </div>
-              <span className="brand-title">Sat<span>Query</span></span>
+              <span className="brand-title"><span>Gaganasakhi</span></span>
             </div>
             <button onClick={toggleSidebar} className="sidebar-collapse-btn" title="Close sidebar">
               <PanelLeftClose size={18} />
